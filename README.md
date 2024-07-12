@@ -47,6 +47,9 @@ Healthy Teeth AI es una herramienta de diagnóstico automático de enfermedades 
 ![Resultado del diagnóstico](https://github.com/DawnyCTI/PROYECTO-FINAL---GRUPO-STAT-CAST/raw/main/images/p3.png)
 *Figura 3: Resultado del diagnóstico*
 
+## Estructura del Proyecto
+![Estructura del proyecto](https://github.com/repositoriosHackaton/StatCast/blob/main/images/p4.png)
+
 ## Ejemplo de Uso
 
 ## Entrenamiento del Modelo
